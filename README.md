@@ -6,7 +6,7 @@
 
 Welcome to my Github profile. <br>- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br>- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience.<br>- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br>
 Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a><br>
-or <a href="mailto:ahy.lm09x2@gmail.com"><b>email</b></a> me.
+or <a href="mailto:ahy.lm09x2@gmail.com"><b>email</b></a> me. <br> <br> <a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </p><i>Happy Coding!</i> 😊 <br>
 
