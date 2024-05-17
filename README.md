@@ -1,17 +1,23 @@
 <div align="center">
- <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h2> 
+ <h1><div align="right"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </div> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h1> 
 </div>
 
 
 
 #### Welcome to my Github profile.  
-<img align="right" src="https://media.licdn.com/dms/image/D4E03AQGhu_MKboUauw/profile-displayphoto-shrink_800_800/0/1708962654965?e=1721260800&v=beta&t=WdOiUEtW_aTa6Adr8NlW8orTW0ep9QxsYPbFlQSgWNI" widht="300" height="300">- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br><br>- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience.<br><br>- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br><br><br><br>
+<img align="right" src="https://media.licdn.com/dms/image/D4E03AQGhu_MKboUauw/profile-displayphoto-shrink_800_800/0/1708962654965?e=1721260800&v=beta&t=WdOiUEtW_aTa6Adr8NlW8orTW0ep9QxsYPbFlQSgWNI" widht="300" height="300">
+- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
+- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br>
+- I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend, studying, watching videos, series, playing football. And I'm trying to learn to read books.<br><br>
+- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.
+
 ##### <p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
 <div align="center">
+ 
 Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a>
 or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>. <br> <br> <a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </p><i>Happy Coding!</i> 😊 <br><br>
+<i>Happy Coding!</i> 😊 <br><br>
 </div>
 
 
