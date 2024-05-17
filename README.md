@@ -5,10 +5,10 @@
 
 
 #### Welcome to my Github profile.  
-<img align="right" src="https://media.licdn.com/dms/image/D4E03AQGhu_MKboUauw/profile-displayphoto-shrink_800_800/0/1708962654965?e=1721260800&v=beta&t=WdOiUEtW_aTa6Adr8NlW8orTW0ep9QxsYPbFlQSgWNI" widht="310" height="310">
-- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
-- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br>
+<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://media.licdn.com/dms/image/D4E03AQGhu_MKboUauw/profile-displayphoto-shrink_800_800/0/1708962654965?e=1721260800&v=beta&t=WdOiUEtW_aTa6Adr8NlW8orTW0ep9QxsYPbFlQSgWNI" widht="310" height="310"></a>
 - I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend, studying, watching videos, series, playing football. And I'm trying to learn to read books.<br><br>
+- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br>
+- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
 - Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.
 
 ##### <p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
