@@ -23,9 +23,9 @@ or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>. <br> <br> <a hre
 
 <div align="center">
  <div flex-direction: row;> 
-  <img src="https://github-readme-stats.vercel.app/api?username=LimaAnthonyY&show_icons=true&theme=tokyonight&count_private=true" widht="200" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=LimaAnthonyY&show_icons=true&theme=tokyonight&count_private=true" widht="190" height="200">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAnthonyY&theme=tokyonight&layout=compact&hide_langs_below=1" widht="200" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAnthonyY&theme=tokyonight&layout=compact&hide_langs_below=1" widht="190" height="200">
  </div>
 <br>
 
