@@ -1,27 +1,31 @@
 <div align="center">
- <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"></h2>
+ <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h2> 
 </div>
 
+
+
+#### Welcome to my Github profile.  
+<img align="right" src="https://media.licdn.com/dms/image/D4E03AQGhu_MKboUauw/profile-displayphoto-shrink_800_800/0/1708962654965?e=1721260800&v=beta&t=WdOiUEtW_aTa6Adr8NlW8orTW0ep9QxsYPbFlQSgWNI" widht="300" height="300">- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br><br>- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience.<br><br>- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br><br><br><br>
+##### <p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
 <div align="center">
+Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a>
+or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>. <br> <br> <a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a>
 
-Welcome to my Github profile. <br>- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br>- I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience.<br>- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br>
-Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a><br>
-or <a href="mailto:ahy.lm09x2@gmail.com"><b>email</b></a> me. <br> <br> <a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </p><i>Happy Coding!</i> 😊 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </p><i>Happy Coding!</i> 😊 <br><br>
 </div>
 
+
 <div align="center">
- <div display: flex; flex-direction: column;> 
-  <img widht="50%" src="https://github-readme-stats.vercel.app/api?username=LimaAnthonyY&show_icons=true&theme=tokyonight&count_private=true">
-  <img widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAnthonyY&theme=tokyonight&layout=compact&hide_langs_below=1">
+ <div flex-direction: row;> 
+  <img src="https://github-readme-stats.vercel.app/api?username=LimaAnthonyY&show_icons=true&theme=tokyonight&count_private=true" widht="200" height="200">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAnthonyY&theme=tokyonight&layout=compact&hide_langs_below=1" widht="200" height="200">
  </div>
 <br>
 
 <br><br>
 <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" >
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
