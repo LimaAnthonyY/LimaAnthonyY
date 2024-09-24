@@ -10,7 +10,7 @@
 - I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br>
 - I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
 - Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br>
-#### <p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
+#### <br><p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
 <div align="center">
  
 Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a>
