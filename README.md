@@ -1,5 +1,5 @@
 <div align="center">
- <h1><div align="right"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </div> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h1> 
+ <h1><div align="right"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </div> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h1> 
 </div>
 
 
