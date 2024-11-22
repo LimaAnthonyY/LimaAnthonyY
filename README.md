@@ -5,9 +5,9 @@
 
 
 #### Welcome to my Github profile.  
-<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://media.licdn.com/dms/image/v2/D4D03AQFnNi8T_A-h3w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726011522112?e=1731542400&v=beta&t=Kr8d6GRnXTQFklR32GuraqwnYy-NG01FnZpxDh-aslo" widht="310" height="310"></a>
-- I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend, studying, watching videos, series, playing football. And I'm trying to learn to read books.<br><br>
-- I'm now using the profile to learn and improve my Python skills and I'm currently learning java, python, C, C++, HTML, CSS and GOOGLE GCP.<br><br>
+<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://avatars.githubusercontent.com/u/130506698?v=4" widht="310" height="310"></a>
+- I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- she is sooo preeety 😍`, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
+- I'm now using the profile to learn and improve my Python skills and other skills that I'm learning how java, C, C++, HTML, CSS, GOOGLE GCP, Azure, AWS, DataScience, DataEngineer, Machine Learning, Spark, SQL, MongoDP, Docker and others.<br><br>
 - I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
 - Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br>
 #### <br><br><p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
