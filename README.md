@@ -8,7 +8,7 @@
 
 #### Welcome to my Github profile.  
 
-<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://avatars.githubusercontent.com/u/130506698?v=4" widht="345" height="345"></a>
+<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t39.30808-6/459177468_8252065961544927_6450791525702304847_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGDlJowNBaNU1qBiyXgI_ZhHYW9NFaaphcdhb00VpqmF0wYMq2O3HhQvuJPwfRnXPMM23_0VdamCons06-mhw2c&_nc_ohc=AhF9peSVFHIQ7kNvgGAJKX4&_nc_zt=23&_nc_ht=scontent.fcgh2-1.fna&_nc_gid=AJEqJJA-bM3yufxYxa7E215&oh=00_AYB44EVHZHyeva_8enJHb9kHhyN9AMYieCXEQzpSPUVV1A&oe=6745F19E" widht="345" height="345"></a>
 
 - I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- she is sooo preeety 😍`, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
 - I'm now using the profile to learn and improve my Python skills and other skills that I'm learning how java, C, C++, HTML, CSS, GOOGLE GCP, Azure, AWS, DataScience, DataEngineer, Machine Learning, Spark, SQL, MongoDP, Docker and others.<br><br>
