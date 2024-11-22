@@ -1,22 +1,27 @@
 <div align="center">
- <h1><div align="right"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /> </div> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </h1> 
+ 
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=LimaAnthonyY&color=brightgreen" alt="LimaAnthonyY" /></p> 
+  <H1> 𝐇𝐞𝐥𝐥𝐨 Everyone! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"> </H1> 
 </div>
 
 
 
 #### Welcome to my Github profile.  
-<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://avatars.githubusercontent.com/u/130506698?v=4" widht="310" height="310"></a>
+
+<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://avatars.githubusercontent.com/u/130506698?v=4" widht="345" height="345"></a>
+
 - I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- she is sooo preeety 😍`, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
 - I'm now using the profile to learn and improve my Python skills and other skills that I'm learning how java, C, C++, HTML, CSS, GOOGLE GCP, Azure, AWS, DataScience, DataEngineer, Machine Learning, Spark, SQL, MongoDP, Docker and others.<br><br>
 - I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
-- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.<br>
-#### <br><br><p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
+- Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.
+
+###### <p align="right"><a href="https://www.linkedin.com/in/limaanthonyy/"><b>Anthony Lima!</b></a></p>
+
 <div align="center">
  
-Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a>
-or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>. <br> <br> <a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a>
+#### Ask me anything <a href="https://github.com/LimaAnthonyY/LimaAnthonyY/issues/new"><b>here</b></a>
+#### or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>.
 
-<i>Happy Coding!</i> 😊 <br><br>
 </div>
 
 
@@ -35,13 +40,16 @@ or via <a href="mailto:ahy.lm09x2@gmail.com"><b>e-mail</b></a>. <br> <br> <a hre
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<i>Follow me around the web:</i><br>
+<i>Follow me around the SocialMedias and look my website:</i><br>
+
+
+
 
 <a href="https://www.linkedin.com/in/limaanthonyy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/LimaAnthonyY/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/lm09x2" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <!---<a href="https://open.spotify.com/user/" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> --->
+###### <a href="https://limaanthonyy.github.io/sitePortfolio"><b>My website hereee 😉</b></a>
+###### <p align="right"><a href="https://vscode.dev/profile/github/17ffc3bbec5be45d72d250f0bf6eb074"><b>Profile VISUALSTUDIO</b></a></p>
 </div>
-
-
