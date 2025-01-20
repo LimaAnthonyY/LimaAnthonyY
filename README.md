@@ -8,7 +8,7 @@
 
 #### Welcome to my Github profile.  
 
-<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://media.licdn.com/dms/image/v2/D4D03AQFQm7O7ZSMtnw/profile-displayphoto-shrink_800_800/B4DZOYIVeRHUAg-/0/1733424219375?e=1739404800&v=beta&t=c-W6H4suL7NzDb8tpNpX1FnhUqjugqALUg-lmL158dg" widht="345" height="345"></a>
+<a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://media-mad2-1.cdn.whatsapp.net/v/t61.24694-24/468730407_1062687112250096_4695375519379112908_n.jpg?ccb=11-4&oh=01_Q5AaIErDjkVwNrXFAFLUAZmaUXZHXSggv5DtisYPzquaaJ6C&oe=679BB43E&_nc_sid=5e03e0&_nc_cat=110" widht="345" height="345"></a>
 
 - I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- she is sooo preeety 😍`, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
 - I'm now using the profile to learn and improve my Python skills and other skills that I'm learning as java, C, C++, HTML, CSS, GOOGLE GCP, Azure, AWS, DataScience, DataEngineer, Machine Learning, Spark, SQL, MongoDP, Docker and others.<br><br>
