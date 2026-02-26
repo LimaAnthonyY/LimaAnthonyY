@@ -27,14 +27,8 @@
 
 <div align="center">
  <div flex-direction: row;> 
-  <img src="https://github-readme-stats.vercel.app/api?username=LimaAnthonyY&show_icons=true&theme=tokyonight&count_private=true"  >
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAnthonyY&theme=tokyonight&layout=compact&hide_langs_below=1" width="354" >
-  
- </div>
-<br>
 
-<br><br>
+ </div>
 <i>Random dev joke for you!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" >
 
