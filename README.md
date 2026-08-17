@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/limaanthonyy/"><img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocKl3W8GRc7FLN97iT8x4BHFkprgrN2XwF0juhhUk2KzO_6Hom2wkg=s288-c-no" widht="345" height="345"></a>
 
-- I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- I don't have any more `, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
+- I'm passionate about games, anime, football. My main hobbies are spending time with my girlfriend `- I don't have any more / News: Maybe I'll have `, studying, watching videos, series and playing football. Now I'm trying to learn to read books.<br><br>
 - I'm now using the profile to learn and improve my Python skills and other skills that I'm learning as java, C, C++, HTML, CSS, GOOGLE GCP, Azure, AWS, DataScience, DataEngineer, Machine Learning, Spark, SQL, MongoDP, Docker and others.<br><br>
 - I'm currently working as a helpdesk, but I'm looking to switch to FullStack, Python or DataScience<br><br>
 - Please feel free to clone/fork projects, raise issues and send ideas if you think something could be better.
